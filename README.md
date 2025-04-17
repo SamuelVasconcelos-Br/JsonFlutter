@@ -1,4 +1,4 @@
-# 🎬 App de Filme Aleatório
+# 🎬 APP de filmes com JSON
 Colaboradores: João Francisco Brandino e Samuel Porto de Vasconcelos
 
 Este é um aplicativo simples feito em Flutter (ou insira o framework correto) que exibe um **filme aleatório** na tela, utilizando dados de um arquivo JSON.
